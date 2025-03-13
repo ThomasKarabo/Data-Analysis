@@ -1,0 +1,159 @@
+﻿Year of Visit;Month of Visit;Service Type;Treatment Cost;Medication Cost;Follow-Up Year Date;Follow-Up Month Date;Patient Satisfaction Score;Referral Source;Emergency Visit;Payment Status;Insurance Coverage;Department;Diagnosis;Insurance Provider;Patient Name;Patient Race;Patient Gender;Patient Age;Patient City;Procedure;Provider Name;Provider Nationality;Coverage Difference;Shortfall Ratio
+2024;9;Outpatient;950;175;2024;10;10;Emergency;No;Paid;787.5;Orthopedics;Hypertension;Allianz;Linda Jones;Black;Female;37;26;MRI Scan;Dr. Emma Jones;European;-162.5;0.17
+2024;7;Outpatient;983;149;2024;8;2;Physician Referral;No;Paid;792.4;Cardiology;Hypertension;Aviva;Skyler Harris;Asian;Male;41;21;X-Ray;Dr. Ravi Patel;Indian;-190.6;0.19
+2024;7;Outpatient;854;78;2024;8;10;Physician Referral;No;Paid;652.4;Cardiology;Hypertension;AXA;Aisha Choi;Asian;Female;20;16;MRI Scan;Dr. Olu Abisola;Nigerian;-201.6;0.24
+2024;7;Outpatient;544;195;2024;8;2;Physician Referral;Yes;Paid;517.3;Cardiology;Hypertension;Aviva;Hina Yamamoto;Asian;Female;34;13;X-Ray;Dr. Emma Jones;European;-26.7;0.05
+2024;9;Outpatient;826;117;2024;9;3;Emergency;No;Paid;660.1;Pediatrics;Hypertension;AXA;Jordan Anderson;Other;Male;39;22;X-Ray;Dr. Sade Kikiola;Nigerian;-165.9;0.2
+2024;7;Outpatient;968;195;2024;8;1;Physician Referral;Yes;Paid;814.1;Cardiology;Hypertension;Aviva;Skyler Anderson;Other;Male;29;3;X-Ray;Dr. Ravi Patel;Indian;-153.9;0.16
+2024;8;Outpatient;679;54;2024;9;5;Physician Referral;No;Paid;513.1;Pediatrics;Hypertension;AXA;Taylor Taylor;Other;Male;47;25;Blood Test;Dr. Sade Kikiola;Nigerian;-165.9;0.24
+2024;7;Outpatient;669;63;2024;7;1;Self-Referral;Yes;Paid;512.4;Cardiology;Fracture;Aviva;Amina Njoku;Black;Male;57;5;Ultrasound;Dr. Olu Abisola;Nigerian;-156.6;0.23
+2024;8;Outpatient;951;199;2024;9;4;Self-Referral;Yes;Paid;805;Pediatrics;Hypertension;Aviva;Patricia Brown;White;Female;70;23;Ultrasound;Dr. Johnson Grek;European;-146;0.15
+2024;10;Emergency;794;28;2024;10;6;Emergency;Yes;Paid;575.4;Neurology;Hypertension;Allianz;Adebayo Mensah;Black;Female;33;22;MRI Scan;Dr. Johnson Grek;European;-218.6;0.28
+2024;12;Inpatient;724;129;2024;12;3;Emergency;No;Paid;597.1;General Surgery;Asthma;Allianz;Kofi Njoku;Black;Female;35;4;X-Ray;Dr. Olu Abisola;Nigerian;-126.9;0.18
+2024;7;Outpatient;584;136;2024;7;2;Self-Referral;Yes;Paid;504;Cardiology;Hypertension;Allianz;Barbara Miller;White;Female;40;2;Ultrasound;Dr. Olu Abisola;Nigerian;-80;0.14
+2024;8;Outpatient;932;127;2024;9;8;Emergency;No;Paid;741.3;General Surgery;Hypertension;Aviva;Yuna Singh;Asian;Male;75;16;X-Ray;Dr. Emma Jones;European;-190.7;0.2
+2024;8;Outpatient;894;54;2024;8;5;Emergency;No;Paid;663.6;General Surgery;Hypertension;AXA;Amina Eze;Black;Male;78;36;Ultrasound;Dr. Ravi Patel;Indian;-230.4;0.26
+2024;9;Outpatient;962;192;2024;10;8;Self-Referral;No;Paid;807.8;Orthopedics;Hypertension;Allianz;Mary Jones;Black;Male;79;19;MRI Scan;Dr. Emma Jones;European;-154.2;0.16
+2024;7;Outpatient;731;167;2024;8;1;Self-Referral;Yes;Paid;628.6;Cardiology;Hypertension;AXA;Jordan Harris;Other;Female;76;40;MRI Scan;Dr. Olu Abisola;Nigerian;-102.4;0.14
+2024;12;Inpatient;638;177;2024;12;3;Emergency;No;Paid;570.5;Neurology;Hypertension;Aviva;John Wilson;White;Female;79;4;CT Scan;Dr. Olu Abisola;Nigerian;-67.5;0.11
+2024;8;Outpatient;967;199;2024;9;5;Physician Referral;Yes;Paid;816.2;General Surgery;Hypertension;Allianz;Elizabeth Wilson;White;Male;20;29;X-Ray;Dr. Olu Abisola;Nigerian;-150.8;0.16
+2024;12;Outpatient;807;32;2025;1;8;Emergency;No;Paid;587.3;Neurology;Migraine;Aviva;Chima Eze;Black;Male;28;10;X-Ray;Dr. Olu Abisola;Nigerian;-219.7;0.27
+2024;7;Outpatient;704;160;2024;8;4;Self-Referral;Yes;Paid;604.8;Cardiology;Hypertension;Aviva;Taylor Harris;Hispanic;Female;60;9;X-Ray;Dr. Ravi Patel;Indian;-99.2;0.14
+2024;7;Outpatient;826;189;2024;7;2;Emergency;Yes;Paid;710.5;Cardiology;Hypertension;Aviva;Olu Fashola;Black;Female;61;30;CT Scan;Dr. Olu Abisola;Nigerian;-115.5;0.14
+2024;10;Inpatient;972;64;2024;10;7;Physician Referral;No;Paid;725.2;Neurology;Hypertension;AXA;Olu Achebe;Black;Female;62;16;Blood Test;Dr. Emma Jones;European;-246.8;0.25
+2024;9;Outpatient;732;174;2024;9;4;Emergency;No;Paid;634.2;Neurology;Hypertension;Allianz;Lian Singh;Asian;Male;25;39;Blood Test;Dr. Olu Abisola;Nigerian;-97.8;0.13
+2024;7;Outpatient;712;46;2024;8;1;Emergency;No;Paid;530.6;Cardiology;Hypertension;AXA;Quinn Harris;Other;Female;46;33;CT Scan;Dr. Sade Kikiola;Nigerian;-181.4;0.25
+2024;12;Inpatient;989;85;2025;1;1;Physician Referral;No;Paid;751.8;Cardiology;Hypertension;Allianz;Adanna Diallo;Black;Female;72;4;Blood Test;Dr. Olu Abisola;Nigerian;-237.2;0.24
+2024;7;Outpatient;565;173;2024;7;2;Self-Referral;Yes;Paid;516.6;Cardiology;Hypertension;Aviva;Nori Singh;Asian;Female;24;40;CT Scan;Dr. Ravi Patel;Indian;-48.4;0.09
+2024;12;Outpatient;660;129;2025;1;2;Self-Referral;No;Paid;552.3;Neurology;Migraine;AXA;Akira Yamamoto;Asian;Female;28;4;Blood Test;Dr. Olu Abisola;Nigerian;-107.7;0.16
+2024;12;Outpatient;654;113;2025;1;8;Self-Referral;No;Paid;536.9;Orthopedics;Migraine;Allianz;Hina Choi;Asian;Male;35;4;X-Ray;Dr. Olu Abisola;Nigerian;-117.1;0.18
+2024;12;Inpatient;979;135;2024;12;8;Self-Referral;No;Paid;779.8;General Surgery;Fracture;Aviva;Quinn Martin;Other;Male;45;10;X-Ray;Dr. Olu Abisola;Nigerian;-199.2;0.2
+2024;9;Outpatient;674;123;2024;10;10;Physician Referral;Yes;Paid;557.9;Cardiology;Hypertension;Allianz;Kofi Mensah;Black;Female;71;21;X-Ray;Dr. Johnson Grek;European;-116.1;0.17
+2024;9;Outpatient;848;137;2024;9;4;Emergency;Yes;Paid;689.5;Orthopedics;Hypertension;AXA;Jordan Harris;Hispanic;Female;77;39;MRI Scan;Dr. Ravi Patel;Indian;-158.5;0.19
+2024;7;Outpatient;861;153;2024;8;2;Physician Referral;No;Paid;709.8;Pediatrics;Hypertension;Aviva;Riley Taylor;Other;Male;79;33;CT Scan;Dr. Emma Jones;European;-151.2;0.18
+2024;12;Outpatient;867;106;2025;1;9;Self-Referral;No;Paid;681.1;Neurology;Appendicitis;Aviva;Chima Aminu;Black;Female;31;10;CT Scan;Dr. Olu Abisola;Nigerian;-185.9;0.21
+2024;9;Emergency;998;110;2024;10;9;Self-Referral;Yes;Paid;775.6;General Surgery;Hypertension;Allianz;Quinn Anderson;Hispanic;Male;42;22;X-Ray;Dr. Johnson Grek;European;-222.4;0.22
+2024;8;Outpatient;853;159;2024;9;5;Physician Referral;Yes;Paid;708.4;General Surgery;Hypertension;Aviva;Akira Kim;Asian;Male;51;17;X-Ray;Dr. Emma Jones;European;-144.6;0.17
+2024;9;Outpatient;1000;139;2024;9;1;Physician Referral;Yes;Paid;797.3;Neurology;Hypertension;Allianz;Olu Balogun;Black;Male;57;8;X-Ray;Dr. Johnson Grek;European;-202.7;0.2
+2024;7;Outpatient;764;159;2024;8;1;Physician Referral;No;Paid;646.1;Cardiology;Hypertension;AXA;Kofi Aminu;Black;Male;60;29;Ultrasound;Dr. Emma Jones;European;-117.9;0.15
+2024;9;Emergency;995;87;2024;10;5;Emergency;Yes;Paid;757.4;Neurology;Hypertension;Allianz;Zainab Abubakar;Black;Male;38;24;MRI Scan;Dr. Emma Jones;European;-237.6;0.24
+2024;7;Outpatient;675;56;2024;8;1;Self-Referral;Yes;Paid;511.7;Cardiology;Hypertension;AXA;Michael Wilson;White;Male;43;11;CT Scan;Dr. Ravi Patel;Indian;-163.3;0.24
+2024;9;Emergency;821;97;2024;10;2;Emergency;Yes;Paid;642.6;General Surgery;Hypertension;AXA;Morgan Moore;Other;Female;45;4;X-Ray;Dr. Sade Kikiola;Nigerian;-178.4;0.22
+2024;12;Emergency;908;45;2025;1;7;Emergency;No;Paid;667.1;General Surgery;Fracture;AXA;Olu Eze;Black;Male;42;10;X-Ray;Dr. Olu Abisola;Nigerian;-240.9;0.27
+2024;9;Outpatient;819;65;2024;10;7;Emergency;Yes;Paid;618.8;Orthopedics;Hypertension;AXA;Amina Achebe;Black;Female;46;12;MRI Scan;Dr. Emma Jones;European;-200.2;0.24
+2024;8;Outpatient;852;85;2024;9;7;Physician Referral;Yes;Paid;655.9;Cardiology;Hypertension;Aviva;Morgan Taylor;Other;Male;47;35;Ultrasound;Dr. Johnson Grek;European;-196.1;0.23
+2024;7;Outpatient;713;196;2024;8;1;Emergency;Yes;Paid;636.3;Cardiology;Hypertension;Allianz;Peyton Lee;Hispanic;Male;52;32;Ultrasound;Dr. Emma Jones;European;-76.7;0.11
+2024;7;Outpatient;880;132;2024;7;2;Physician Referral;Yes;Paid;708.4;Cardiology;Hypertension;Allianz;Riley Harris;Black;Female;72;3;X-Ray;Dr. Johnson Grek;European;-171.6;0.2
+2024;9;Outpatient;632;185;2024;9;2;Self-Referral;Yes;Paid;571.9;Orthopedics;Hypertension;AXA;Mei Khan;Asian;Female;38;40;MRI Scan;Dr. Olu Abisola;Nigerian;-60.1;0.1
+2024;8;Outpatient;698;143;2024;9;2;Physician Referral;No;Paid;588.7;Cardiology;Hypertension;Allianz;Fatima Diallo;Black;Female;39;24;Ultrasound;Dr. Ravi Patel;Indian;-109.3;0.16
+2024;9;Outpatient;750;20;2024;10;3;Self-Referral;Yes;Paid;539;Pediatrics;Hypertension;Allianz;Casey Lee;Hispanic;Male;68;37;X-Ray;Dr. Sade Kikiola;Nigerian;-211;0.28
+2024;7;Outpatient;921;154;2024;8;1;Self-Referral;No;Paid;752.5;Cardiology;Hypertension;Aviva;Barbara Davis;White;Female;41;5;CT Scan;Dr. Olu Abisola;Nigerian;-168.5;0.18
+2024;8;Outpatient;661;90;2024;8;10;Emergency;Yes;Paid;525.7;General Surgery;Hypertension;Aviva;Chima Eze;Black;Male;52;40;Ultrasound;Dr. Emma Jones;European;-135.3;0.2
+2024;12;Outpatient;715;170;2024;12;9;Self-Referral;No;Paid;619.5;Pediatrics;Fracture;Aviva;Taylor Lee;Hispanic;Female;57;4;Blood Test;Dr. Olu Abisola;Nigerian;-95.5;0.13
+2024;7;Outpatient;745;38;2024;8;2;Emergency;No;Paid;548.1;Cardiology;Hypertension;Allianz;Robert Wilson;White;Male;67;34;MRI Scan;Dr. Sade Kikiola;Nigerian;-196.9;0.26
+2024;8;Outpatient;927;173;2024;8;9;Self-Referral;Yes;Paid;770;General Surgery;Hypertension;AXA;Kofi Balogun;Black;Male;75;17;X-Ray;Dr. Emma Jones;European;-157;0.17
+2024;7;Outpatient;662;182;2024;8;1;Physician Referral;No;Paid;590.8;Cardiology;Hypertension;Allianz;Adebayo Mensah;Black;Male;33;31;CT Scan;Dr. Johnson Grek;European;-71.2;0.11
+2024;9;Outpatient;830;184;2024;10;1;Self-Referral;Yes;Paid;709.8;Pediatrics;Hypertension;AXA;Mei Kim;Asian;Female;61;10;CT Scan;Dr. Sade Kikiola;Nigerian;-120.2;0.14
+2024;7;Outpatient;650;131;2024;7;2;Emergency;No;Paid;546.7;Orthopedics;Asthma;Allianz;Taylor Thomas;Other;Female;74;1;MRI Scan;Dr. Ravi Patel;Indian;-103.3;0.16
+2024;12;Inpatient;811;160;2024;12;10;Self-Referral;Yes;Paid;679.7;Orthopedics;Appendicitis;AXA;Adebayo Mensah;Black;Male;43;10;X-Ray;Dr. Olu Abisola;Nigerian;-131.3;0.16
+2024;12;Outpatient;994;96;2025;1;2;Emergency;No;Paid;763;Neurology;Fracture;AXA;Alex Moore;Hispanic;Male;48;4;CT Scan;Dr. Olu Abisola;Nigerian;-231;0.23
+2024;12;Outpatient;648;79;2025;1;2;Self-Referral;No;Paid;508.9;Orthopedics;Asthma;Aviva;Ngozi Aminu;Black;Male;57;10;X-Ray;Dr. Olu Abisola;Nigerian;-139.1;0.21
+2024;8;Outpatient;814;67;2024;8;9;Emergency;No;Paid;616.7;Pediatrics;Hypertension;AXA;Barbara Williams;White;Male;57;29;MRI Scan;Dr. Ravi Patel;Indian;-197.3;0.24
+2024;9;Outpatient;725;24;2024;10;6;Emergency;No;Paid;524.3;Cardiology;Hypertension;Allianz;Haruto Choi;Asian;Female;73;33;X-Ray;Dr. Emma Jones;European;-200.7;0.28
+2024;7;Outpatient;814;119;2024;7;2;Emergency;No;Paid;653.1;Cardiology;Migraine;AXA;Lian Khan;Asian;Female;46;2;Ultrasound;Dr. Emma Jones;European;-160.9;0.2
+2024;9;Outpatient;666;49;2024;9;5;Self-Referral;Yes;Paid;500.5;Pediatrics;Hypertension;Aviva;Adanna Balogun;Black;Female;42;7;MRI Scan;Dr. Sade Kikiola;Nigerian;-165.5;0.25
+2024;12;Inpatient;807;55;2025;1;6;Physician Referral;No;Paid;603.4;Orthopedics;Hypertension;Aviva;Avery Thompson;Hispanic;Female;36;10;X-Ray;Dr. Olu Abisola;Nigerian;-203.6;0.25
+2024;9;Emergency;924;141;2024;10;5;Self-Referral;No;Paid;745.5;General Surgery;Hypertension;Aviva;Michael Jones;White;Male;52;38;X-Ray;Dr. Ravi Patel;Indian;-178.5;0.19
+2024;7;Outpatient;908;131;2024;8;10;Physician Referral;Yes;Paid;727.3;Neurology;Hypertension;Aviva;Akira Choi;Asian;Female;54;19;CT Scan;Dr. Ravi Patel;Indian;-180.7;0.2
+2024;9;Outpatient;938;110;2024;10;3;Emergency;No;Paid;733.6;General Surgery;Hypertension;Allianz;John Smith;White;Female;68;6;X-Ray;Dr. Johnson Grek;European;-204.4;0.22
+2024;9;Outpatient;820;96;2024;9;4;Self-Referral;No;Paid;641.2;General Surgery;Hypertension;AXA;Riley Lee;Hispanic;Female;71;20;X-Ray;Dr. Emma Jones;European;-178.8;0.22
+2024;8;Outpatient;569;164;2024;8;8;Physician Referral;No;Paid;513.1;Neurology;Hypertension;Aviva;Akira Chen;Asian;Female;21;3;Ultrasound;Dr. Emma Jones;European;-55.9;0.1
+2024;12;Inpatient;918;138;2025;1;8;Physician Referral;No;Paid;739.2;Neurology;Migraine;Aviva;Jordan Lee;Other;Female;33;10;CT Scan;Dr. Olu Abisola;Nigerian;-178.8;0.19
+2024;8;Outpatient;857;164;2024;9;2;Self-Referral;No;Paid;714.7;Neurology;Hypertension;AXA;Morgan Moore;Other;Female;34;6;Blood Test;Dr. Ravi Patel;Indian;-142.3;0.17
+2024;12;Inpatient;933;105;2025;1;9;Self-Referral;No;Paid;726.6;Orthopedics;Hypertension;AXA;Morgan Moore;Hispanic;Female;53;4;X-Ray;Dr. Olu Abisola;Nigerian;-206.4;0.22
+2024;7;Outpatient;858;27;2024;8;2;Self-Referral;Yes;Paid;619.5;Cardiology;Hypertension;AXA;Patricia Miller;White;Male;69;3;Ultrasound;Dr. Emma Jones;European;-238.5;0.28
+2024;9;Outpatient;989;134;2024;10;1;Emergency;No;Paid;786.1;General Surgery;Hypertension;AXA;Hina Tanaka;Asian;Female;40;20;X-Ray;Dr. Emma Jones;European;-202.9;0.21
+2024;8;Outpatient;871;39;2024;9;9;Self-Referral;No;Paid;637;Neurology;Hypertension;Allianz;Linda Miller;White;Female;42;6;Blood Test;Dr. Olu Abisola;Nigerian;-234;0.27
+2024;8;Outpatient;965;157;2024;9;9;Physician Referral;No;Paid;785.4;Orthopedics;Hypertension;Allianz;Aisha Singh;Asian;Female;52;6;MRI Scan;Dr. Emma Jones;European;-179.6;0.19
+2024;12;Outpatient;691;164;2025;1;3;Emergency;No;Paid;598.5;Orthopedics;Hypertension;Allianz;Riley White;Other;Female;70;14;X-Ray;Dr. Olu Abisola;Nigerian;-92.5;0.13
+2024;8;Outpatient;930;122;2024;9;5;Emergency;Yes;Paid;736.4;Neurology;Hypertension;Allianz;Taylor Taylor;Hispanic;Female;79;19;Blood Test;Dr. Emma Jones;European;-193.6;0.21
+2024;9;Emergency;927;38;2024;10;8;Self-Referral;No;Paid;675.5;Cardiology;Hypertension;AXA;Kofi Aminu;Black;Male;19;24;X-Ray;Dr. Olu Abisola;Nigerian;-251.5;0.27
+2024;12;Outpatient;768;74;2025;1;8;Physician Referral;No;Paid;589.4;Pediatrics;Fracture;Aviva;Michael Garcia;White;Female;50;10;X-Ray;Dr. Olu Abisola;Nigerian;-178.6;0.23
+2024;8;Outpatient;857;82;2024;9;5;Emergency;Yes;Paid;657.3;Pediatrics;Hypertension;Aviva;Chima Abubakar;Black;Female;67;13;X-Ray;Dr. Sade Kikiola;Nigerian;-199.7;0.23
+2024;9;Outpatient;860;50;2024;9;2;Self-Referral;No;Paid;637;Pediatrics;Hypertension;AXA;Barbara Johnson;White;Male;70;37;CT Scan;Dr. Sade Kikiola;Nigerian;-223;0.26
+2024;8;Outpatient;909;54;2024;9;10;Self-Referral;No;Paid;674.1;Neurology;Hypertension;AXA;Alex Anderson;Other;Male;37;4;X-Ray;Dr. Johnson Grek;European;-234.9;0.26
+2024;8;Outpatient;800;77;2024;9;1;Self-Referral;Yes;Paid;613.9;Cardiology;Hypertension;AXA;Linda Williams;White;Male;28;31;Blood Test;Dr. Emma Jones;European;-186.1;0.23
+2024;8;Outpatient;983;199;2024;8;6;Emergency;Yes;Paid;827.4;Neurology;Hypertension;Allianz;Haruto Wang;Asian;Male;43;10;CT Scan;Dr. Johnson Grek;European;-155.6;0.16
+2024;7;Outpatient;837;81;2024;8;7;Self-Referral;Yes;Paid;642.6;Pediatrics;Hypertension;Aviva;Barbara Miller;White;Female;56;39;CT Scan;Dr. Sade Kikiola;Nigerian;-194.4;0.23
+2024;12;Inpatient;734;53;2025;1;9;Self-Referral;No;Paid;550.9;Cardiology;Appendicitis;Aviva;Chima Eze;Black;Female;72;10;CT Scan;Dr. Olu Abisola;Nigerian;-183.1;0.25
+2024;12;Outpatient;886;161;2025;1;5;Self-Referral;No;Paid;732.9;Neurology;Asthma;AXA;Taylor Thompson;Hispanic;Female;48;4;CT Scan;Dr. Olu Abisola;Nigerian;-153.1;0.17
+2024;12;Outpatient;992;193;2025;1;2;Emergency;No;Paid;829.5;Cardiology;Appendicitis;Aviva;Alex Jackson;Hispanic;Female;63;10;X-Ray;Dr. Olu Abisola;Nigerian;-162.5;0.16
+2024;9;Outpatient;949;56;2024;10;3;Self-Referral;Yes;Paid;703.5;Cardiology;Hypertension;Allianz;Adanna Aminu;Black;Male;77;18;Ultrasound;Dr. Ravi Patel;Indian;-245.5;0.26
+2024;8;Outpatient;809;58;2024;9;8;Physician Referral;No;Paid;606.9;Orthopedics;Hypertension;Aviva;Riley Taylor;Hispanic;Female;26;39;MRI Scan;Dr. Emma Jones;European;-202.1;0.25
+2024;8;Outpatient;855;180;2024;8;3;Emergency;No;Paid;724.5;General Surgery;Hypertension;Aviva;Fatima Achebe;Black;Female;34;4;X-Ray;Dr. Emma Jones;European;-130.5;0.15
+2024;7;Outpatient;745;119;2024;7;1;Emergency;No;Paid;604.8;Orthopedics;Hypertension;Allianz;Barbara Jones;White;Male;39;8;MRI Scan;Dr. Ravi Patel;Indian;-140.2;0.19
+2024;8;Outpatient;609;128;2024;9;4;Self-Referral;No;Paid;515.9;Pediatrics;Hypertension;Aviva;Chima Eze;Black;Male;44;10;MRI Scan;Dr. Sade Kikiola;Nigerian;-93.1;0.15
+2024;9;Inpatient;554;183;2024;10;6;Self-Referral;Yes;Paid;515.9;Cardiology;Hypertension;Aviva;Sanjay Tanaka;Asian;Female;61;18;CT Scan;Dr. Johnson Grek;European;-38.1;0.07
+2024;12;Outpatient;649;92;2024;12;5;Physician Referral;Yes;Paid;518.7;General Surgery;Asthma;Aviva;Aisha Khan;Asian;Male;70;4;X-Ray;Dr. Olu Abisola;Nigerian;-130.3;0.2
+2024;9;Outpatient;920;32;2024;9;8;Physician Referral;Yes;Paid;666.4;Pediatrics;Hypertension;Aviva;Avery Martin;Other;Female;70;38;Ultrasound;Dr. Emma Jones;European;-253.6;0.28
+2024;12;Outpatient;600;118;2024;12;4;Self-Referral;Yes;Paid;502.6;Cardiology;Asthma;Aviva;Sanjay Suzuki;Asian;Male;77;4;Ultrasound;Dr. Olu Abisola;Nigerian;-97.4;0.16
+2024;9;Inpatient;989;148;2024;10;1;Emergency;Yes;Paid;795.9;Orthopedics;Hypertension;Aviva;Chima Eze;Black;Female;78;13;MRI Scan;Dr. Johnson Grek;European;-193.1;0.2
+2024;8;Outpatient;718;74;2024;8;10;Physician Referral;No;Paid;554.4;Pediatrics;Hypertension;Allianz;Mary Jones;White;Male;45;26;CT Scan;Dr. Johnson Grek;European;-163.6;0.23
+2024;9;Inpatient;819;154;2024;10;4;Physician Referral;No;Paid;681.1;Neurology;Hypertension;Allianz;Robert Martinez;White;Female;56;26;Blood Test;Dr. Olu Abisola;Nigerian;-137.9;0.17
+2024;8;Outpatient;574;165;2024;9;8;Emergency;No;Paid;517.3;General Surgery;Hypertension;AXA;Riley Thompson;Other;Female;19;31;X-Ray;Dr. Emma Jones;European;-56.7;0.1
+2024;12;Emergency;995;92;2025;1;4;Physician Referral;No;Paid;760.9;Orthopedics;Appendicitis;Allianz;Haruto Kim;Asian;Female;38;4;X-Ray;Dr. Olu Abisola;Nigerian;-234.1;0.24
+2024;9;Outpatient;798;150;2024;10;3;Physician Referral;Yes;Paid;663.6;Pediatrics;Hypertension;Aviva;Hina Khan;Asian;Female;43;15;MRI Scan;Dr. Ravi Patel;Indian;-134.4;0.17
+2024;8;Outpatient;899;27;2024;8;4;Emergency;Yes;Paid;648.2;Neurology;Hypertension;AXA;Michael Davis;White;Female;58;35;Ultrasound;Dr. Ravi Patel;Indian;-250.8;0.28
+2024;7;Outpatient;950;105;2024;8;1;Self-Referral;No;Paid;738.5;Cardiology;Hypertension;Aviva;Avery Taylor;Hispanic;Male;68;32;Ultrasound;Dr. Olu Abisola;Nigerian;-211.5;0.22
+2024;7;Outpatient;753;146;2024;7;1;Self-Referral;Yes;Paid;629.3;Cardiology;Hypertension;AXA;Ravi Wang;Asian;Female;78;13;CT Scan;Dr. Emma Jones;European;-123.7;0.16
+2024;7;Outpatient;688;147;2024;8;10;Emergency;No;Paid;584.5;General Surgery;Hypertension;Allianz;Peyton Thomas;Hispanic;Male;21;24;Ultrasound;Dr. Olu Abisola;Nigerian;-103.5;0.15
+2024;8;Outpatient;764;159;2024;9;8;Emergency;No;Paid;646.1;Orthopedics;Hypertension;AXA;Michael Garcia;White;Female;28;25;MRI Scan;Dr. Olu Abisola;Nigerian;-117.9;0.15
+2024;9;Outpatient;724;139;2024;10;4;Emergency;Yes;Paid;604.1;Orthopedics;Hypertension;AXA;Avery Thompson;Hispanic;Female;32;27;MRI Scan;Dr. Sade Kikiola;Nigerian;-119.9;0.17
+2024;12;Emergency;729;107;2025;1;4;Self-Referral;No;Paid;585.2;General Surgery;Hypertension;AXA;Morgan Taylor;Other;Female;75;10;X-Ray;Dr. Olu Abisola;Nigerian;-143.8;0.2
+2024;7;Outpatient;760;49;2024;7;1;Physician Referral;Yes;Paid;566.3;Cardiology;Hypertension;AXA;Skyler Taylor;Asian;Female;33;38;Ultrasound;Dr. Olu Abisola;Nigerian;-193.7;0.25
+2024;9;Outpatient;981;81;2024;9;3;Self-Referral;No;Paid;743.4;Neurology;Hypertension;Allianz;Skyler Moore;Hispanic;Male;57;32;X-Ray;Dr. Emma Jones;European;-237.6;0.24
+2024;8;Outpatient;729;65;2024;8;4;Physician Referral;Yes;Paid;555.8;Cardiology;Hypertension;Aviva;Casey Martin;Other;Female;57;37;CT Scan;Dr. Emma Jones;European;-173.2;0.24
+2024;9;Emergency;976;89;2024;10;9;Self-Referral;No;Paid;745.5;Pediatrics;Hypertension;AXA;Skyler Taylor;Hispanic;Female;68;22;Blood Test;Dr. Olu Abisola;Nigerian;-230.5;0.24
+2024;10;Inpatient;797;196;2024;10;9;Self-Referral;No;Paid;695.1;Neurology;Hypertension;AXA;Akira Singh;Asian;Male;73;24;CT Scan;Dr. Olu Abisola;Nigerian;-101.9;0.13
+2024;7;Outpatient;663;178;2024;7;1;Physician Referral;No;Paid;588.7;Cardiology;Hypertension;AXA;Casey Jackson;Hispanic;Female;20;11;X-Ray;Dr. Johnson Grek;European;-74.3;0.11
+2024;12;Inpatient;784;192;2025;1;5;Emergency;No;Paid;683.2;Neurology;Hypertension;Aviva;Avery Martin;Hispanic;Female;56;10;Ultrasound;Dr. Olu Abisola;Nigerian;-100.8;0.13
+2024;12;Inpatient;842;161;2025;1;4;Self-Referral;No;Paid;702.1;General Surgery;Migraine;Aviva;Taylor White;Other;Female;60;10;X-Ray;Dr. Olu Abisola;Nigerian;-139.9;0.17
+2024;7;Outpatient;726;159;2024;7;2;Physician Referral;Yes;Paid;619.5;Neurology;Appendicitis;AXA;Linda Brown;White;Female;62;15;Ultrasound;Dr. Ravi Patel;Indian;-106.5;0.15
+2024;12;Outpatient;752;152;2024;12;1;Physician Referral;No;Paid;632.8;Cardiology;Fracture;AXA;Hina Khan;Asian;Male;75;4;Ultrasound;Dr. Olu Abisola;Nigerian;-119.2;0.16
+2024;9;Outpatient;991;165;2024;9;8;Physician Referral;No;Paid;809.2;Cardiology;Hypertension;Aviva;Casey White;Hispanic;Male;78;28;MRI Scan;Dr. Johnson Grek;European;-181.8;0.18
+2024;7;Outpatient;844;183;2024;7;2;Emergency;Yes;Paid;718.9;Cardiology;Hypertension;Allianz;Patricia Brown;White;Male;51;30;Blood Test;Dr. Emma Jones;European;-125.1;0.15
+2024;12;Outpatient;722;198;2024;12;4;Physician Referral;No;Paid;644;Neurology;Asthma;Allianz;Morgan White;Other;Female;51;4;Ultrasound;Dr. Olu Abisola;Nigerian;-78;0.11
+2024;12;Inpatient;768;33;2024;12;5;Self-Referral;No;Paid;560.7;Neurology;Asthma;AXA;Taylor White;Hispanic;Female;65;10;CT Scan;Dr. Olu Abisola;Nigerian;-207.3;0.27
+2024;7;Outpatient;682;128;2024;8;9;Emergency;Yes;Paid;567;Neurology;Hypertension;Allianz;Casey Anderson;Other;Male;75;26;Ultrasound;Dr. Johnson Grek;European;-115;0.17
+2024;8;Outpatient;853;73;2024;9;5;Self-Referral;No;Paid;648.2;General Surgery;Hypertension;Allianz;Olu Balogun;Black;Female;24;16;X-Ray;Dr. Sade Kikiola;Nigerian;-204.8;0.24
+2024;8;Outpatient;840;191;2024;9;1;Physician Referral;Yes;Paid;721.7;General Surgery;Hypertension;Allianz;Zainab Njoku;Black;Male;49;27;X-Ray;Dr. Ravi Patel;Indian;-118.3;0.14
+2024;7;Outpatient;676;92;2024;8;1;Physician Referral;No;Paid;537.6;Cardiology;Hypertension;Allianz;Quinn Harris;Other;Male;79;20;CT Scan;Dr. Ravi Patel;Indian;-138.4;0.2
+2024;8;Outpatient;762;135;2024;8;8;Physician Referral;Yes;Paid;627.9;Cardiology;Hypertension;AXA;Kwame Mensah;Black;Male;26;23;Ultrasound;Dr. Johnson Grek;European;-134.1;0.18
+2024;8;Outpatient;985;45;2024;9;1;Emergency;No;Paid;721;Neurology;Hypertension;Aviva;John Smith;White;Female;27;5;CT Scan;Dr. Sade Kikiola;Nigerian;-264;0.27
+2024;12;Inpatient;981;100;2025;1;5;Physician Referral;No;Paid;756.7;Neurology;Appendicitis;AXA;Skyler Moore;Hispanic;Male;37;10;CT Scan;Dr. Olu Abisola;Nigerian;-224.3;0.23
+2024;7;Outpatient;781;172;2024;7;1;Physician Referral;Yes;Paid;667.1;Cardiology;Migraine;Aviva;Michael Davis;White;Female;39;26;Blood Test;Dr. Olu Abisola;Nigerian;-113.9;0.15
+2024;8;Outpatient;840;130;2024;8;7;Self-Referral;No;Paid;679;General Surgery;Hypertension;AXA;Hina Suzuki;Asian;Female;40;27;X-Ray;Dr. Sade Kikiola;Nigerian;-161;0.19
+2024;9;Outpatient;751;25;2024;9;8;Emergency;Yes;Paid;543.2;General Surgery;Hypertension;AXA;William Garcia;White;Male;49;4;X-Ray;Dr. Olu Abisola;Nigerian;-207.8;0.28
+2024;7;Outpatient;997;190;2024;8;1;Self-Referral;Yes;Paid;830.9;Cardiology;Hypertension;AXA;Peyton Thomas;Other;Female;51;18;Blood Test;Dr. Ravi Patel;Indian;-166.1;0.17
+2024;7;Outpatient;778;20;2024;7;1;Self-Referral;Yes;Paid;558.6;Cardiology;Fracture;Allianz;Riley Taylor;Hispanic;Male;53;17;CT Scan;Dr. Sade Kikiola;Nigerian;-219.4;0.28
+2024;9;Inpatient;779;114;2024;10;7;Emergency;No;Paid;625.1;Pediatrics;Hypertension;Aviva;Peyton Martin;Hispanic;Female;65;25;Blood Test;Dr. Johnson Grek;European;-153.9;0.2
+2024;8;Outpatient;977;68;2024;8;8;Physician Referral;No;Paid;731.5;General Surgery;Hypertension;Aviva;Alex Anderson;Hispanic;Female;66;9;Ultrasound;Dr. Johnson Grek;European;-245.5;0.25
+2024;9;Outpatient;641;75;2024;9;1;Self-Referral;Yes;Paid;501.2;Cardiology;Hypertension;Aviva;Skyler Thomas;Other;Female;28;7;X-Ray;Dr. Johnson Grek;European;-139.8;0.22
+2024;7;Outpatient;880;192;2024;8;1;Self-Referral;Yes;Paid;750.4;Cardiology;Hypertension;Allianz;Olu Fashola;Black;Female;48;11;Ultrasound;Dr. Ravi Patel;Indian;-129.6;0.15
+2024;7;Outpatient;745;61;2024;8;1;Self-Referral;No;Paid;564.2;Cardiology;Hypertension;Allianz;Nori Tanaka;Asian;Male;52;11;MRI Scan;Dr. Emma Jones;European;-180.8;0.24
+2024;12;Outpatient;570;145;2025;1;5;Emergency;No;Paid;500.5;Cardiology;Hypertension;AXA;Avery Anderson;Hispanic;Female;61;4;Ultrasound;Dr. Olu Abisola;Nigerian;-69.5;0.12
+2024;9;Outpatient;688;138;2024;10;6;Self-Referral;Yes;Paid;578.2;Cardiology;Hypertension;Allianz;Zainab Okoro;Black;Female;29;18;Blood Test;Dr. Olu Abisola;Nigerian;-109.8;0.16
+2024;8;Outpatient;754;92;2024;9;5;Emergency;Yes;Paid;592.2;Pediatrics;Hypertension;Allianz;Quinn Lee;Hispanic;Female;30;27;Ultrasound;Dr. Sade Kikiola;Nigerian;-161.8;0.21
+2024;9;Outpatient;946;87;2024;10;7;Physician Referral;Yes;Paid;723.1;General Surgery;Hypertension;Allianz;Riley Taylor;Other;Female;32;27;X-Ray;Dr. Sade Kikiola;Nigerian;-222.9;0.24
+2024;12;Inpatient;984;143;2025;1;10;Self-Referral;Yes;Paid;788.9;Cardiology;Appendicitis;AXA;Patricia Johnson;White;Male;18;4;Blood Test;Dr. Olu Abisola;Nigerian;-195.1;0.2
+2024;9;Outpatient;959;144;2024;9;6;Emergency;Yes;Paid;772.1;Pediatrics;Hypertension;Aviva;Peyton Jackson;Other;Female;47;11;CT Scan;Dr. Ravi Patel;Indian;-186.9;0.19
+2024;12;Inpatient;790;63;2025;1;8;Physician Referral;No;Paid;597.1;Orthopedics;Hypertension;Aviva;Lian Choi;Asian;Female;48;4;X-Ray;Dr. Olu Abisola;Nigerian;-192.9;0.24
+2024;7;Outpatient;676;153;2024;8;7;Self-Referral;Yes;Paid;580.3;General Surgery;Hypertension;Aviva;Chima Njoku;Black;Male;54;15;Ultrasound;Dr. Ravi Patel;Indian;-95.7;0.14
+2024;7;Outpatient;880;148;2024;7;2;Emergency;No;Paid;719.6;Cardiology;Hypertension;AXA;Robert Williams;White;Female;59;9;Blood Test;Dr. Sade Kikiola;Nigerian;-160.4;0.18
+2024;12;Emergency;829;78;2024;12;2;Emergency;Yes;Paid;634.9;General Surgery;Migraine;AXA;Casey Thomas;Hispanic;Male;66;4;X-Ray;Dr. Olu Abisola;Nigerian;-194.1;0.23
+2024;9;Inpatient;706;54;2024;9;2;Self-Referral;No;Paid;532;General Surgery;Hypertension;Aviva;Jordan Anderson;Other;Male;21;19;X-Ray;Dr. Sade Kikiola;Nigerian;-174;0.25
+2024;7;Outpatient;929;92;2024;7;2;Physician Referral;No;Paid;714.7;Cardiology;Hypertension;Aviva;Casey White;Other;Female;35;32;Blood Test;Dr. Emma Jones;European;-214.3;0.23
+2024;9;Outpatient;754;57;2024;9;1;Self-Referral;No;Paid;567.7;Pediatrics;Hypertension;Allianz;Linda Miller;White;Male;39;5;CT Scan;Dr. Emma Jones;European;-186.3;0.25
+2024;9;Emergency;845;100;2024;9;10;Emergency;Yes;Paid;661.5;Orthopedics;Hypertension;AXA;Mei Tanaka;Asian;Female;51;4;MRI Scan;Dr. Olu Abisola;Nigerian;-183.5;0.22
+2024;12;Outpatient;827;134;2025;1;2;Self-Referral;No;Paid;672.7;Cardiology;Fracture;AXA;Adebayo Balogun;Black;Female;25;4;CT Scan;Dr. Olu Abisola;Nigerian;-154.3;0.19
+2024;7;Outpatient;925;78;2024;7;1;Self-Referral;Yes;Paid;702.1;Cardiology;Migraine;AXA;Peyton Anderson;Other;Female;34;28;Blood Test;Dr. Sade Kikiola;Nigerian;-222.9;0.24
