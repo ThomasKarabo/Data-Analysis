@@ -7,7 +7,7 @@ JOIN cities ON patients.`City ID` = cities.`City ID`;
 SELECT `Year of Visit`,`Month of Visit`,`Service Type`, `Treatment Cost`, `Medication Cost`, `Follow-Up Year Date`, `Follow-Up Month Date`, `Patient Satisfaction Score`,
 `Referral Source`, `Emergency Visit`, `Payment Status`, `Insurance Coverage`, `Department`,`Diagnosis` , `Insurance Provider`, `Patient Name`, `Race` AS `Patient Race`,
 `Procedure`, `Provider Name`, `Nationality` AS `Provider Nationality`, ROUND(`Insurance Coverage` - `Treatment Cost`, 2) AS `Coverage Difference`, 
-ROUND(ABS(`Insurance Coverage` - `Treatment Cost`), 2)/`Treatment Cost` AS `NLR`
+ROUND(ABS(`Insurance Coverage` - `Treatment Cost`), 2)/`Treatment Cost` AS `Shortfall Ratio`
 
 FROM visits
 -- Join the rest of the tables into the visits table
