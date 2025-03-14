@@ -8,8 +8,8 @@ diagnoses,
 insurance,
 patients,
 procedures,
-providers,
-visits,
+providers and
+visits
 ### Data Cleaning - MySQL
 Joined the tables and extracted data for the 2nd half of 2024 for all paid claims above R500
 
